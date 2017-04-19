@@ -1,0 +1,9 @@
+IDPP.LocalServer/bin/
+IDPP.LocalServer/bin/*
+IDPP.LocalServer/bin/**/*
+IDPP.LocalServer/obj/
+IDPP.LocalServer/obj/*
+IDPP.LocalServer/obj/**/*
+packages/
+packages/*
+packages/**/*
